@@ -1,0 +1,263 @@
+{
+    "slug": "awesome-ia-no-trabalho",
+    "campaign": "awesome-ia-no-trabalho",
+    "linkPrefix": "iatrab",
+    "title": "Awesome IA no trabalho",
+    "description": "IA no trabalho, por profissão: assistentes, privacidade, normas e fontes oficiais para conferir o que a IA escreveu.",
+    "intro": "Para quem quer usar IA no trabalho sem expor cliente, aluno ou empresa e sem acreditar em tudo o que ela escreve. Esta é a porta: o que vale para todo mundo está aqui, e cada profissão tem a sua lista, com as normas e as fontes oficiais dela.",
+    "glossary": "ChatGPT, Claude, Gemini, Copilot, Meta AI, WhatsApp, LGPD, ANPD, CERT.br, OAB, CNJ, STF, CFC, Receita Federal, eSocial, Simples Nacional, MEI, BNCC, LDB, ECA, CLT, INSS, Febraban, Gupy, CIEE, Sine and O Novo Básico are proper names; keep them.",
+    "categories": [
+        {
+            "id": "por-profissao",
+            "title": "Por profissão",
+            "description": "Uma lista para cada ofício, com as normas e as fontes dele.",
+            "items": [
+                {
+                    "name": "Awesome IA na advocacia",
+                    "url": "https://github.com/ciro-maciel/awesome-ia-advocacia",
+                    "description": "IA para advogados: assistentes, privacidade, normas sobre IA na advocacia e no Judiciário, e as fontes oficiais para conferir.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Awesome IA na contabilidade",
+                    "url": "https://github.com/ciro-maciel/awesome-ia-contabilidade",
+                    "description": "IA para contadores: assistentes, privacidade, normas do CFC e as fontes da Receita, do eSocial e do Simples para conferir.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Awesome IA na sala de aula",
+                    "url": "https://github.com/ciro-maciel/awesome-ia-sala-de-aula",
+                    "description": "IA para professores: assistentes, idade mínima e privacidade de cada um, e as normas da educação para conferir.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Awesome IA no atendimento e nas vendas",
+                    "url": "https://github.com/ciro-maciel/awesome-ia-atendimento-e-vendas",
+                    "description": "IA para quem atende e vende: assistentes, privacidade, direitos do consumidor e as regras do trabalho de quem está no balcão, no caixa e no telefone.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Awesome IA no escritório",
+                    "url": "https://github.com/ciro-maciel/awesome-ia-escritorio",
+                    "description": "IA para secretárias, assistentes e auxiliares administrativos: assistentes, privacidade, redação oficial e golpes que chegam por e-mail.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Awesome IA no pequeno negócio",
+                    "url": "https://github.com/ciro-maciel/awesome-ia-pequeno-negocio",
+                    "description": "IA para o MEI e o pequeno empresário: assistentes, privacidade, as regras do MEI e do Simples, do consumidor e da LGPD para quem é pequeno.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Awesome IA no primeiro trabalho",
+                    "url": "https://github.com/ciro-maciel/awesome-ia-primeiro-trabalho",
+                    "description": "IA para quem está começando a trabalhar: assistentes, privacidade, onde procurar vaga, os direitos do primeiro emprego e os golpes da vaga falsa.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "assistentes",
+            "title": "Assistentes de IA",
+            "description": "Os mais usados, em ordem alfabética. A ordem não é recomendação.",
+            "items": [
+                {
+                    "name": "ChatGPT",
+                    "url": "https://chatgpt.com/",
+                    "description": "O assistente da OpenAI, com plano grátis e pagos.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Claude",
+                    "url": "https://claude.ai/",
+                    "description": "O assistente da Anthropic, com plano grátis e pagos.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Copilot",
+                    "url": "https://copilot.microsoft.com/",
+                    "description": "O assistente da Microsoft, também dentro do Windows e do Office.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Gemini",
+                    "url": "https://gemini.google.com/",
+                    "description": "O assistente do Google, também dentro do Gmail e do Google Docs.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "privacidade",
+            "title": "Privacidade nas IAs",
+            "description": "Onde desligar o uso das suas conversas para treinar o modelo.",
+            "items": [
+                {
+                    "name": "Anthropic: onde mudar o treino",
+                    "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+                    "description": "Como impedir que as suas conversas no Claude sejam usadas para treinar o modelo.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Google: atividade do Gemini",
+                    "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+                    "description": "Como desligar o histórico de atividade do Gemini e o que muda com isso.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Microsoft: controles de privacidade do Copilot",
+                    "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+                    "description": "Onde ficam os controles de privacidade e de treino do Copilot.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "OpenAI: controles de dados",
+                    "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+                    "description": "Como impedir que as conversas no ChatGPT sejam usadas para treinar o modelo.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "WhatsApp: privacidade",
+                    "url": "https://www.whatsapp.com/privacyquestions",
+                    "description": "O que o WhatsApp diz sobre privacidade, inclusive quando se conversa com a Meta AI.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "protecao-de-dados",
+            "title": "Proteção de dados",
+            "description": "A lei e a autoridade que valem para dados de pessoas.",
+            "items": [
+                {
+                    "name": "LGPD",
+                    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+                    "description": "A Lei Geral de Proteção de Dados, no texto compilado do Planalto.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "ANPD",
+                    "url": "https://www.gov.br/anpd/pt-br",
+                    "description": "A Autoridade Nacional de Proteção de Dados, com guias e regulamentos da LGPD.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "seguranca",
+            "title": "Segurança e golpes",
+            "description": "Para reconhecer o golpe antes de cair nele.",
+            "items": [
+                {
+                    "name": "Cartilha de Segurança do CERT.br",
+                    "url": "https://cartilha.cert.br/",
+                    "description": "O guia de segurança na internet do CERT.br, com fascículos sobre golpes, senhas e celulares.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "livros",
+            "title": "Livros",
+            "description": "A série O Novo Básico, do primeiro uso à profissão.",
+            "items": [
+                {
+                    "name": "IA no dia a dia",
+                    "url": "https://ciromaciel.click/books/ia-no-dia-a-dia",
+                    "description": "O volume 1 da série O Novo Básico: o que todo mundo precisa saber de IA para trabalhar.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "IA por dentro",
+                    "url": "https://ciromaciel.click/books/ia-por-dentro",
+                    "description": "O volume 2 da série O Novo Básico: como funcionam as máquinas que conversam.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "O Novo Básico",
+                    "url": "https://ciromaciel.click/books",
+                    "description": "A série inteira, com um volume por profissão e os kits online abertos.",
+                    "tags": [],
+                    "added": "2026-11-10",
+                    "ours": true
+                }
+            ]
+        }
+    ],
+    "topics": [
+        "trabalho",
+        "profissoes"
+    ]
+}
