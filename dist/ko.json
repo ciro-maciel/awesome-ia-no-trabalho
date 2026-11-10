@@ -1,0 +1,292 @@
+{
+  "slug": "awesome-ia-no-trabalho",
+  "language": "ko",
+  "title": "Awesome IA no trabalho",
+  "description": "직업별 업무용 AI: 어시스턴트, 개인정보 보호, 규범, 결과물을 확인할 공식 자료.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "por-profissao",
+      "title": "직업별",
+      "items": [
+        {
+          "name": "Awesome IA na advocacia",
+          "url": "https://github.com/ciro-maciel/awesome-ia-advocacia",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-na-advocacia",
+          "description": "변호사를 위한 AI: 어시스턴트, 개인정보 보호, 법률 및 사법부의 AI 관련 규범, 확인할 공식 자료.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA na contabilidade",
+          "url": "https://github.com/ciro-maciel/awesome-ia-contabilidade",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-na-contabilidade",
+          "description": "회계사를 위한 AI: 어시스턴트, 개인정보 보호, CFC 규범, 확인할 국세청, eSocial, Simples 자료.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA na sala de aula",
+          "url": "https://github.com/ciro-maciel/awesome-ia-sala-de-aula",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-na-sala-de-aula",
+          "description": "교사를 위한 AI: 각 도구의 권장 연령과 개인정보 보호, 확인할 교육 관련 규범.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA no atendimento e nas vendas",
+          "url": "https://github.com/ciro-maciel/awesome-ia-atendimento-e-vendas",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-no-atendimento-e-nas-v",
+          "description": "고객 응대와 판매를 하는 분들을 위한 AI: 어시스턴트, 개인정보 보호, 소비자 권리, 창구, 계산대, 전화 업무 종사자의 근무 규정.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA no escritório",
+          "url": "https://github.com/ciro-maciel/awesome-ia-escritorio",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-no-escritorio",
+          "description": "비서, 어시스턴트, 사무보조를 위한 AI: 어시스턴트, 개인정보 보호, 공문서 작성, 이메일로 오는 사기.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA no pequeno negócio",
+          "url": "https://github.com/ciro-maciel/awesome-ia-pequeno-negocio",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-no-pequeno-negocio",
+          "description": "MEI와 소규모 사업자를 위한 AI: 어시스턴트, 개인정보 보호, MEI와 Simples 규정, 소비자 보호와 LGPD 기준.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA no primeiro trabalho",
+          "url": "https://github.com/ciro-maciel/awesome-ia-primeiro-trabalho",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-no-primeiro-trabalho",
+          "description": "이제 일을 시작하는 분들을 위한 AI: 어시스턴트, 개인정보 보호, 구직 사이트, 첫 직장의 권리, 가짜 채용 사기.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "assistentes",
+      "title": "AI 어시스턴트",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iatrab-chatgpt",
+          "description": "OpenAI의 어시스턴트. 무료 요금제와 유료 요금제가 있습니다.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iatrab-claude",
+          "description": "Anthropic의 어시스턴트. 무료 요금제와 유료 요금제가 있습니다.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iatrab-copilot",
+          "description": "Microsoft의 어시스턴트. Windows와 Office 안에서도 쓸 수 있습니다.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iatrab-gemini",
+          "description": "Google의 어시스턴트. Gmail과 Google Docs 안에서도 쓸 수 있습니다.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "AI 개인정보 보호",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iatrab-anthropic-onde-mudar-o-treino",
+          "description": "Claude에서 대화 내용이 모델 학습에 쓰이지 않게 막는 방법.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iatrab-google-atividade-do-gemini",
+          "description": "Gemini의 활동 기록을 끄는 방법과 그로 인해 달라지는 점.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iatrab-microsoft-controles-de-privacidad",
+          "description": "Copilot의 개인정보 보호 및 학습 관련 설정이 있는 곳.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iatrab-openai-controles-de-dados",
+          "description": "ChatGPT에서 대화 내용이 모델 학습에 쓰이지 않게 막는 방법.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iatrab-whatsapp-privacidade",
+          "description": "WhatsApp의 개인정보 보호 정책. Meta AI와 대화할 때의 내용도 포함합니다.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "개인정보 보호",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iatrab-lgpd",
+          "description": "개인정보 보호법(LGPD)의 통합 본문을 Planalto에서 제공합니다.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iatrab-anpd",
+          "description": "LGPD의 가이드와 규정을 제공하는 국가 개인정보 보호 기관(ANPD).",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "seguranca",
+      "title": "보안 및 사기",
+      "items": [
+        {
+          "name": "Cartilha de Segurança do CERT.br",
+          "url": "https://cartilha.cert.br/",
+          "link": "https://go.mymarketing.click/iatrab-cartilha-de-seguranca-do-cert-br",
+          "description": "CERT.br의 인터넷 보안 가이드. 사기, 비밀번호, 휴대폰에 관한 소책자가 있습니다.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livros",
+      "title": "도서",
+      "items": [
+        {
+          "name": "IA no dia a dia",
+          "url": "https://ciromaciel.click/books/ia-no-dia-a-dia",
+          "link": "https://go.mymarketing.click/iatrab-ia-no-dia-a-dia",
+          "description": "O Novo Básico 시리즈 1권: 일하는 데 필요한 AI의 모든 것.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA por dentro",
+          "url": "https://ciromaciel.click/books/ia-por-dentro",
+          "link": "https://go.mymarketing.click/iatrab-ia-por-dentro",
+          "description": "O Novo Básico 시리즈 2권: 대화하는 기계가 작동하는 방식.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "O Novo Básico",
+          "url": "https://ciromaciel.click/books",
+          "link": "https://go.mymarketing.click/iatrab-o-novo-basico",
+          "description": "시리즈 전체. 직업별 권이 있고 온라인 키트는 무료로 공개되어 있습니다.",
+          "tags": [],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

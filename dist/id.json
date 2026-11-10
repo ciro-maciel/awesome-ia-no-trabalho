@@ -1,0 +1,292 @@
+{
+  "slug": "awesome-ia-no-trabalho",
+  "language": "id",
+  "title": "Awesome IA no trabalho",
+  "description": "AI di tempat kerja, per profesi: asisten, privasi, standar, dan sumber resmi untuk memeriksa apa yang ditulis AI.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "por-profissao",
+      "title": "Berdasarkan profesi",
+      "items": [
+        {
+          "name": "Awesome IA na advocacia",
+          "url": "https://github.com/ciro-maciel/awesome-ia-advocacia",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-na-advocacia",
+          "description": "AI untuk pengacara: asisten, privasi, aturan AI di bidang hukum dan peradilan, serta sumber resmi untuk memeriksa.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA na contabilidade",
+          "url": "https://github.com/ciro-maciel/awesome-ia-contabilidade",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-na-contabilidade",
+          "description": "AI untuk akuntan: asisten, privasi, standar CFC, dan sumber dari Receita, eSocial, dan Simples untuk diperiksa.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA na sala de aula",
+          "url": "https://github.com/ciro-maciel/awesome-ia-sala-de-aula",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-na-sala-de-aula",
+          "description": "AI untuk guru: asisten, usia minimum dan privasi masing-masing, serta standar pendidikan untuk diperiksa.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA no atendimento e nas vendas",
+          "url": "https://github.com/ciro-maciel/awesome-ia-atendimento-e-vendas",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-no-atendimento-e-nas-v",
+          "description": "AI untuk layanan dan penjualan: asisten, privasi, hak konsumen, dan aturan kerja bagi yang melayani di konter, kasir, dan telepon.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA no escritório",
+          "url": "https://github.com/ciro-maciel/awesome-ia-escritorio",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-no-escritorio",
+          "description": "AI untuk sekretaris, asisten, dan staf administrasi: asisten, privasi, tata tulis resmi, dan penipuan yang datang lewat email.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA no pequeno negócio",
+          "url": "https://github.com/ciro-maciel/awesome-ia-pequeno-negocio",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-no-pequeno-negocio",
+          "description": "AI untuk MEI dan pengusaha kecil: asisten, privasi, aturan MEI dan Simples, konsumen, dan LGPD bagi usaha kecil.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA no primeiro trabalho",
+          "url": "https://github.com/ciro-maciel/awesome-ia-primeiro-trabalho",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-no-primeiro-trabalho",
+          "description": "AI untuk yang baru mulai bekerja: asisten, privasi, tempat mencari lowongan, hak pekerja pertama kali, dan penipuan lowongan palsu.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "assistentes",
+      "title": "Asisten AI",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iatrab-chatgpt",
+          "description": "Asisten dari OpenAI, dengan paket gratis dan berbayar.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iatrab-claude",
+          "description": "Asisten dari Anthropic, dengan paket gratis dan berbayar.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iatrab-copilot",
+          "description": "Asisten dari Microsoft, juga ada di dalam Windows dan Office.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iatrab-gemini",
+          "description": "Asisten dari Google, juga ada di dalam Gmail dan Google Docs.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Privasi pada AI",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iatrab-anthropic-onde-mudar-o-treino",
+          "description": "Cara mencegah percakapan Anda di Claude dipakai untuk melatih model.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iatrab-google-atividade-do-gemini",
+          "description": "Cara mematikan riwayat aktivitas Gemini dan apa yang berubah karenanya.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iatrab-microsoft-controles-de-privacidad",
+          "description": "Tempat kontrol privasi dan pelatihan Copilot.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iatrab-openai-controles-de-dados",
+          "description": "Cara mencegah percakapan di ChatGPT dipakai untuk melatih model.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iatrab-whatsapp-privacidade",
+          "description": "Apa yang dikatakan WhatsApp tentang privasi, termasuk saat berbicara dengan Meta AI.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Perlindungan data",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iatrab-lgpd",
+          "description": "Undang-Undang Perlindungan Data Pribadi, dalam teks terkompilasi dari Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iatrab-anpd",
+          "description": "Otoritas Nasional Perlindungan Data, dengan panduan dan peraturan LGPD.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "seguranca",
+      "title": "Keamanan dan penipuan",
+      "items": [
+        {
+          "name": "Cartilha de Segurança do CERT.br",
+          "url": "https://cartilha.cert.br/",
+          "link": "https://go.mymarketing.click/iatrab-cartilha-de-seguranca-do-cert-br",
+          "description": "Panduan keamanan internet dari CERT.br, dengan fasikel tentang penipuan, kata sandi, dan ponsel.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livros",
+      "title": "Buku",
+      "items": [
+        {
+          "name": "IA no dia a dia",
+          "url": "https://ciromaciel.click/books/ia-no-dia-a-dia",
+          "link": "https://go.mymarketing.click/iatrab-ia-no-dia-a-dia",
+          "description": "Jilid 1 seri O Novo Básico: apa yang perlu diketahui semua orang tentang AI untuk bekerja.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA por dentro",
+          "url": "https://ciromaciel.click/books/ia-por-dentro",
+          "link": "https://go.mymarketing.click/iatrab-ia-por-dentro",
+          "description": "Jilid 2 seri O Novo Básico: cara kerja mesin yang bisa bercakap.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "O Novo Básico",
+          "url": "https://ciromaciel.click/books",
+          "link": "https://go.mymarketing.click/iatrab-o-novo-basico",
+          "description": "Seri lengkap, dengan satu jilid per profesi dan kit daring yang terbuka.",
+          "tags": [],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

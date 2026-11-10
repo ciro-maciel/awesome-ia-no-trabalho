@@ -1,0 +1,292 @@
+{
+  "slug": "awesome-ia-no-trabalho",
+  "language": "ru",
+  "title": "Awesome IA no trabalho",
+  "description": "ИИ на работе по профессиям: ассистенты, конфиденциальность, нормы и официальные источники, чтобы проверять то, что написал ИИ.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "por-profissao",
+      "title": "По профессии",
+      "items": [
+        {
+          "name": "Awesome IA na advocacia",
+          "url": "https://github.com/ciro-maciel/awesome-ia-advocacia",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-na-advocacia",
+          "description": "ИИ для адвокатов: ассистенты, конфиденциальность, нормы об ИИ в адвокатуре и судебной системе и официальные источники для проверки.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA na contabilidade",
+          "url": "https://github.com/ciro-maciel/awesome-ia-contabilidade",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-na-contabilidade",
+          "description": "ИИ для бухгалтеров: ассистенты, конфиденциальность, нормы CFC и источники Receita, eSocial и Simples для проверки.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA na sala de aula",
+          "url": "https://github.com/ciro-maciel/awesome-ia-sala-de-aula",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-na-sala-de-aula",
+          "description": "ИИ для учителей: ассистенты, минимальный возраст и конфиденциальность каждого из них, а также нормы в образовании для проверки.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA no atendimento e nas vendas",
+          "url": "https://github.com/ciro-maciel/awesome-ia-atendimento-e-vendas",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-no-atendimento-e-nas-v",
+          "description": "ИИ для тех, кто обслуживает и продаёт: ассистенты, конфиденциальность, права потребителя и правила труда тех, кто работает у прилавка, на кассе и по телефону.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA no escritório",
+          "url": "https://github.com/ciro-maciel/awesome-ia-escritorio",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-no-escritorio",
+          "description": "ИИ для секретарей, ассистентов и административных помощников: ассистенты, конфиденциальность, официальное делопроизводство и мошенничество по электронной почте.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA no pequeno negócio",
+          "url": "https://github.com/ciro-maciel/awesome-ia-pequeno-negocio",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-no-pequeno-negocio",
+          "description": "ИИ для MEI и малого предпринимателя: ассистенты, конфиденциальность, правила MEI и Simples, потребителя и LGPD для малого бизнеса.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA no primeiro trabalho",
+          "url": "https://github.com/ciro-maciel/awesome-ia-primeiro-trabalho",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-no-primeiro-trabalho",
+          "description": "ИИ для тех, кто начинает работать: ассистенты, конфиденциальность, где искать вакансии, права при первом трудоустройстве и мошенничество с фейковыми вакансиями.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "assistentes",
+      "title": "Ассистенты ИИ",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iatrab-chatgpt",
+          "description": "Ассистент от OpenAI, с бесплатным и платными тарифами.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iatrab-claude",
+          "description": "Ассистент от Anthropic, с бесплатным и платными тарифами.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iatrab-copilot",
+          "description": "Ассистент от Microsoft, также встроенный в Windows и Office.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iatrab-gemini",
+          "description": "Ассистент от Google, также встроенный в Gmail и Google Docs.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Конфиденциальность в ИИ",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iatrab-anthropic-onde-mudar-o-treino",
+          "description": "Как запретить использование ваших диалогов в Claude для обучения модели.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iatrab-google-atividade-do-gemini",
+          "description": "Как отключить историю активности Gemini и что это изменит.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iatrab-microsoft-controles-de-privacidad",
+          "description": "Где находятся настройки конфиденциальности и обучения Copilot.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iatrab-openai-controles-de-dados",
+          "description": "Как запретить использование диалогов в ChatGPT для обучения модели.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iatrab-whatsapp-privacidade",
+          "description": "Что WhatsApp говорит о конфиденциальности, в том числе когда вы общаетесь с Meta AI.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Защита данных",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iatrab-lgpd",
+          "description": "Общий закон о защите данных (LGPD) в сборнике текста на сайте Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iatrab-anpd",
+          "description": "Национальный орган по защите данных (ANPD), с руководствами и нормативными актами LGPD.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "seguranca",
+      "title": "Безопасность и мошенничество",
+      "items": [
+        {
+          "name": "Cartilha de Segurança do CERT.br",
+          "url": "https://cartilha.cert.br/",
+          "link": "https://go.mymarketing.click/iatrab-cartilha-de-seguranca-do-cert-br",
+          "description": "Руководство по безопасности в интернете от CERT.br, с выпусками о мошенничестве, паролях и телефонах.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livros",
+      "title": "Книги",
+      "items": [
+        {
+          "name": "IA no dia a dia",
+          "url": "https://ciromaciel.click/books/ia-no-dia-a-dia",
+          "link": "https://go.mymarketing.click/iatrab-ia-no-dia-a-dia",
+          "description": "Том 1 серии O Novo Básico: что всем нужно знать об ИИ для работы.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA por dentro",
+          "url": "https://ciromaciel.click/books/ia-por-dentro",
+          "link": "https://go.mymarketing.click/iatrab-ia-por-dentro",
+          "description": "Том 2 серии O Novo Básico: как устроены машины, которые ведут диалог.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "O Novo Básico",
+          "url": "https://ciromaciel.click/books",
+          "link": "https://go.mymarketing.click/iatrab-o-novo-basico",
+          "description": "Вся серия, с одним томом на профессию и открытыми онлайн-наборами.",
+          "tags": [],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

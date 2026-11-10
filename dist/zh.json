@@ -1,0 +1,292 @@
+{
+  "slug": "awesome-ia-no-trabalho",
+  "language": "zh",
+  "title": "Awesome IA no trabalho",
+  "description": "职场中的 AI，按职业划分：助手、隐私、规范和官方来源，用于核对 AI 写的内容。",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "por-profissao",
+      "title": "按职业",
+      "items": [
+        {
+          "name": "Awesome IA na advocacia",
+          "url": "https://github.com/ciro-maciel/awesome-ia-advocacia",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-na-advocacia",
+          "description": "律师的 AI：助手、隐私、律师业和司法系统中关于 AI 的规范，以及用于核对的官方来源。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA na contabilidade",
+          "url": "https://github.com/ciro-maciel/awesome-ia-contabilidade",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-na-contabilidade",
+          "description": "会计的 AI：助手、隐私、CFC 规范，以及用于核对的税务局、eSocial 和 Simples 来源。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA na sala de aula",
+          "url": "https://github.com/ciro-maciel/awesome-ia-sala-de-aula",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-na-sala-de-aula",
+          "description": "教师的 AI：各类助手及其最低年龄和隐私政策，以及用于核对的教育规范。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA no atendimento e nas vendas",
+          "url": "https://github.com/ciro-maciel/awesome-ia-atendimento-e-vendas",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-no-atendimento-e-nas-v",
+          "description": "接待和销售人员的 AI：助手、隐私、消费者权益，以及柜台、收银和电话岗位的工作规定。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA no escritório",
+          "url": "https://github.com/ciro-maciel/awesome-ia-escritorio",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-no-escritorio",
+          "description": "秘书、助理和行政人员的 AI：助手、隐私、公文写作规范，以及通过电子邮件传来的诈骗。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA no pequeno negócio",
+          "url": "https://github.com/ciro-maciel/awesome-ia-pequeno-negocio",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-no-pequeno-negocio",
+          "description": "个体户 MEI 和小企业主的 AI：助手、隐私，以及适用于小企业的 MEI、Simples、消费者和 LGPD 规定。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome IA no primeiro trabalho",
+          "url": "https://github.com/ciro-maciel/awesome-ia-primeiro-trabalho",
+          "link": "https://go.mymarketing.click/iatrab-awesome-ia-no-primeiro-trabalho",
+          "description": "刚开始工作的人的 AI：助手、隐私、从哪里找工作、初次就业的权益，以及虚假招聘诈骗。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "assistentes",
+      "title": "AI 助手",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iatrab-chatgpt",
+          "description": "OpenAI 的助手，提供免费和付费套餐。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iatrab-claude",
+          "description": "Anthropic 的助手，提供免费和付费套餐。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iatrab-copilot",
+          "description": "微软的助手，也内置于 Windows 和 Office。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iatrab-gemini",
+          "description": "谷歌的助手，也内置于 Gmail 和 Google 文档。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "AI 中的隐私",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iatrab-anthropic-onde-mudar-o-treino",
+          "description": "如何防止你在 Claude 中的对话被用于模型训练。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iatrab-google-atividade-do-gemini",
+          "description": "如何关闭 Gemini 的活动记录，以及这样做会有什么变化。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iatrab-microsoft-controles-de-privacidad",
+          "description": "Copilot 的隐私和训练控制设置在哪里。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iatrab-openai-controles-de-dados",
+          "description": "如何防止你在 ChatGPT 中的对话被用于模型训练。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iatrab-whatsapp-privacidade",
+          "description": "WhatsApp 关于隐私的说明，包括与 Meta AI 对话时的情况。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "数据保护",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iatrab-lgpd",
+          "description": "《通用数据保护法》，Planalto 整理的文本。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iatrab-anpd",
+          "description": "国家数据保护局，提供 LGPD 的指南和条例。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "seguranca",
+      "title": "安全与诈骗",
+      "items": [
+        {
+          "name": "Cartilha de Segurança do CERT.br",
+          "url": "https://cartilha.cert.br/",
+          "link": "https://go.mymarketing.click/iatrab-cartilha-de-seguranca-do-cert-br",
+          "description": "CERT.br 的互联网安全指南，含有关诈骗、密码和手机的小册子。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livros",
+      "title": "书籍",
+      "items": [
+        {
+          "name": "IA no dia a dia",
+          "url": "https://ciromaciel.click/books/ia-no-dia-a-dia",
+          "link": "https://go.mymarketing.click/iatrab-ia-no-dia-a-dia",
+          "description": "O Novo Básico 系列第 1 卷：每个人工作前都需要了解的 AI 知识。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA por dentro",
+          "url": "https://ciromaciel.click/books/ia-por-dentro",
+          "link": "https://go.mymarketing.click/iatrab-ia-por-dentro",
+          "description": "O Novo Básico 系列第 2 卷：会对话的机器是如何工作的。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "O Novo Básico",
+          "url": "https://ciromaciel.click/books",
+          "link": "https://go.mymarketing.click/iatrab-o-novo-basico",
+          "description": "整个系列，每个职业一卷，并附开放的在线配套资料。",
+          "tags": [],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}
